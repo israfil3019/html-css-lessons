@@ -1,0 +1,41 @@
+.header {
+    width: 800px;
+    height:150px;
+    position: relative;
+    border: 3px solid black;
+}
+
+.logo{
+    border: 3px solid black;
+    width: 300px;
+    line-height: 30px;
+    height: 60px;    
+    padding-left: 10px;
+
+    position: absolute;
+    top: 10px;
+    left: 5px;
+
+}
+.top-nav{
+    border: 3px solid black;
+    width: 100px;
+    line-height: 20px;
+    padding-left: 10px;
+
+    position: absolute;
+    left: 670px;
+    top: 10px;
+
+}
+.menu{
+    border: 3px solid black;
+    width: 520px;
+    line-height: 20px;
+    padding-left: 10px;
+
+    position: absolute;
+    left:250px;
+    top:110px;
+
+}
