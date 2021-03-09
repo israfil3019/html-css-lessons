@@ -1,0 +1,78 @@
+body{
+  background-color:aquamarine
+}
+.Green {
+    border: 3px solid black;
+    width: 640px;
+    height: 150px;
+    background-color: green;
+  
+    position:absolute;
+    top: 20px;
+    left: 20px;
+    
+  }
+.Yellow {
+    border: 3px solid black;
+    width: 200px;
+    height: 320px;
+    background-color:yellow;
+  
+    position:absolute;
+    top: 190px;
+    left: 20px;
+   
+  }
+.Orange {
+    border: 3px solid black;
+    width: 200px;
+    height: 150px;
+    background-color: orange;
+  
+    position:absolute;
+    top: 190px;
+    left: 240px;
+    
+  }
+.Blue {
+    border: 3px solid black;
+    width: 200px;
+    height: 150px;
+    background-color: aqua;
+  
+    position:absolute;
+    top:360px;
+    left:240px;
+   
+  }
+.Red{
+    border: 3px solid black;
+    width: 200px;
+    height: 320px;
+    background-color: red;
+
+    position:absolute;
+    top:190px;
+    left: 460px;
+
+}
+.first {
+  background-color: aliceblue;
+  width:min-content;
+  position:relative;
+  left: 10px;
+  top: -20px;
+}
+.second {
+  background-color: aliceblue;
+  width:min-content;
+  position:relative;
+  top:20px;
+
+}
+.third {
+  background-color: aliceblue;
+  width:min-content;
+  position:relative;
+  top: 20px;
+}
